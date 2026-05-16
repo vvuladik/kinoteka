@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "kinoteka",
+  "compatibility_date": "2026-05-16",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "проект"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
